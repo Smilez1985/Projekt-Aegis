@@ -1,0 +1,5 @@
+- Siehe [keepachangelog.com](https://keepachangelog.com/de/1.1.0/)
+- Ausnahme: Wir haben im Changelog.md keine "Unreleased" sparte. Das gehört nach Roadmap.md!
+- Jeder Eintrag im Changelog benötigt einen Timestamp (DD.MM.YYYY-HH:MM) sowie eine Versionierung
+- In den Changelog kommt nur was fertig ist - Fertig bedeutet Gebaut, verdrahtet, getestet und wird zusammen mit dem Changelog Eintrag committet
+- 
